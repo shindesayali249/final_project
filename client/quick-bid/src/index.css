@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('D:\Full Stack Python\Final_Proj/auction1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; /* Cover the whole viewport */
+  background-position: center center; /* Center the image */
+  background-attachment: fixed; /* Keep the background fixed during scroll */
+  background-clip: border-box; /* Clip the background to the border */
+  background-origin: padding-box; /* Start the background at the padding */
+  background-blend-mode: multiply; /* Blend the background with the color */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
