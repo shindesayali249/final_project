@@ -56,7 +56,7 @@ function Login() {
           borderRadius: '8px',
         }}
       >
-        <h4 className="text-center mb-4 font-weight-bold text-primary">
+        <h4 className="text-center mb-4 font-weight-bold">
           Login to Your Account
         </h4>
         <form onSubmit={handleSubmit(loginHandler)} id="loginForm" className="row g-3">

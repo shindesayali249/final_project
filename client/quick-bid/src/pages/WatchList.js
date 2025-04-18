@@ -95,7 +95,7 @@ function WatchList() {
             {/* Display Watchlist */}
             <div className="container mt-5">
                 <table className="table table-bordered table-hover table-striped shadow-lg rounded">
-                    <thead className="table-dark">
+                    <thead className="table-secondary">
                         <tr>
                             <th>Title</th>
                             <th>Current Bid</th>

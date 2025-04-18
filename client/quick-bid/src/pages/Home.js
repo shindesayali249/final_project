@@ -36,7 +36,7 @@ function Home() {
   return (
     <>
       <table className="table table-striped mx-auto mt-3 ">
-        <thead className='table-info'>
+        <thead className='table-secondary'>
           <tr>
             <td>Id</td>
             <td>Title</td>
